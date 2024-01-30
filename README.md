@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgpl2000&label=Profile%20views&color=0e75b6&style=flat" alt="vgpl2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vgpl2000" alt="vgpl2000" /></a> </p>
-
 - 🔭 I have worked on Android Java Application Development [Refill](https://github.com/vgpl2000/Refill)
 
 - 🌱 I’m currently learning **Flutter Application Development, Advanced Frontend Development.**
