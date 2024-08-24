@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venugopal</h1>
-<h3 align="center">A passionate frontend developer from India who is looking forward to best opportunities!</h3>
+<h3 align="center">A professional frontend developer from India who is looking forward to best opportunities!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgpl2000&label=Profile%20views&color=0e75b6&style=flat" alt="vgpl2000" /> </p>
 
-- 🔭 I have worked on Android Java Application Development [Ricsho](https://github.com/vgpl2000/Ricksho)
+- 🔭 I have worked on Android Java Application Development [Ricksho](https://github.com/vgpl2000/Ricksho)
 
 - 🌱 I’m currently learning **Flutter Application Development, Advanced Frontend Development.**
 
